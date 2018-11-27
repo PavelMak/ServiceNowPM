@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="PMFlowAction">56f9554d4f866700ef3f38a18110c7e2</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="PMFlow">11c9dd0d4f866700ef3f38a18110c754</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-26 14:41:46</sys_created_on>
+        <sys_id>3616e5c54fc66700ef3f38a18110c7e4</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PMTEST" source="x_278660_pmtest">a020780d4f066700ef3f38a18110c732</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PMTEST">a020780d4f066700ef3f38a18110c732</sys_scope>
+        <sys_update_name>sys_hub_action_instance_3616e5c54fc66700ef3f38a18110c7e4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-11-26 15:06:19</sys_updated_on>
+        <ui_id>a16255e2-7d37-417e-adfe-a32b5556c760</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=3616e5c54fc66700ef3f38a18110c7e4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>3616e5c54fc66700ef3f38a18110c7e4</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-26 14:41:46</sys_created_on>
+        <sys_id>3216e5c54fc66700ef3f38a18110c7e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-26 14:41:46</sys_updated_on>
+        <value/>
+        <variable display_value="">413429454fc66700ef3f38a18110c728</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=3616e5c54fc66700ef3f38a18110c7e4"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>incrementalfield1</field>
+        <id>3616e5c54fc66700ef3f38a18110c7e4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-26 14:41:46</sys_created_on>
+        <sys_id>be16e5c54fc66700ef3f38a18110c7e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-26 14:41:46</sys_updated_on>
+        <table>var__m_sys_hub_action_input_56f9554d4f866700ef3f38a18110c7e2</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+</record_update>

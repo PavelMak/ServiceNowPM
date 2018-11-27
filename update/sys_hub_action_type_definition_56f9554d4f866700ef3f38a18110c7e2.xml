@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>pmflowaction</internal_name>
+        <label_cache>[{"name":"{{action.in}}","label":"action➛In","type":"action","ref":""},{"name":"{{action.incrementalfield1}}","label":"action➛IncrementalField","type":"action","ref":"x_278660_pmtest_pmtesttable"},{"name":"{{action.incrementalfield1.incrementalfield}}","label":"action➛IncrementalField➛IncrementalField","type":"action","ref":""},{"name":"{{step[88fb9627-7233-471d-8a0e-08b80b5b51c4].O}}","label":"step➛Script step➛O","type":"step","ref":""},{"name":"{{step[88fb9627-7233-471d-8a0e-08b80b5b51c4].Ou}}","label":"step➛Script step➛Ou","type":"step","ref":""},{"name":"{{step[88fb9627-7233-471d-8a0e-08b80b5b51c4].Out}}","label":"step➛Script step➛Out","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>ee46e9c54fc66700ef3f38a18110c7e3</latest_snapshot>
+        <master_snapshot>c13b158d4f866700ef3f38a18110c7ec</master_snapshot>
+        <name>PMFlowAction</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-26 13:48:44</sys_created_on>
+        <sys_id>56f9554d4f866700ef3f38a18110c7e2</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>PMFlowAction</sys_name>
+        <sys_package display_value="PMTEST" source="x_278660_pmtest">a020780d4f066700ef3f38a18110c732</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PMTEST">a020780d4f066700ef3f38a18110c732</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_56f9554d4f866700ef3f38a18110c7e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-26 14:42:34</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=56f9554d4f866700ef3f38a18110c7e2"/>
+    <sys_variable_value action="delete_multiple" query="document_key=56f9554d4f866700ef3f38a18110c7e2"/>
+    <sys_element_mapping action="delete_multiple" query="id=56f9554d4f866700ef3f38a18110c7e2"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>new_value</field>
+        <id>56f9554d4f866700ef3f38a18110c7e2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-26 13:55:38</sys_created_on>
+        <sys_id>878b598d4f866700ef3f38a18110c7a3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-26 14:23:18</sys_updated_on>
+        <table>var__m_sys_hub_action_output_56f9554d4f866700ef3f38a18110c7e2</table>
+        <value>{{step[88fb9627-7233-471d-8a0e-08b80b5b51c4].Out}}</value>
+    </sys_element_mapping>
+</record_update>

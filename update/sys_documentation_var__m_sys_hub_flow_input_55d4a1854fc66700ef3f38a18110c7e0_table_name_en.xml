@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_55d4a1854fc66700ef3f38a18110c7e0">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <help/>
+            <hint/>
+            <label>Table Name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_55d4a1854fc66700ef3f38a18110c7e0</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 14:36:12</sys_created_on>
+            <sys_id>d5d4a5854fc66700ef3f38a18110c7d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table Name</sys_name>
+            <sys_package display_value="PMTEST" source="x_278660_pmtest">a020780d4f066700ef3f38a18110c732</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PMTEST">a020780d4f066700ef3f38a18110c732</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_55d4a1854fc66700ef3f38a18110c7e0_table_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 14:36:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

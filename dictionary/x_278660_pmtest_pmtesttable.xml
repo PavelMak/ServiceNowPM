@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="PMTESTTable" max_length="40" name="x_278660_pmtest_pmtesttable" type="collection">
+        <element label="IncrementalField" max_length="40" name="incrementalfield" type="integer"/>
+    </element>
+</database>

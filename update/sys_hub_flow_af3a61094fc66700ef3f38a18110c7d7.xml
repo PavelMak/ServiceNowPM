@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>pmsubflow</internal_name>
+        <label_cache>[{"name":"subflow.test.sys_updated_by","label":"Input➛test➛Updated by","reference":"","reference_display":"Updated by","type":"string","base_type":"string","parent_table_name":"x_278660_pmtest_pmtesttable","column_name":"sys_updated_by"},{"name":"subflow.test.incrementalfield","label":"Input➛test➛IncrementalField","reference":"","reference_display":"IncrementalField","type":"integer","base_type":"integer","parent_table_name":"x_278660_pmtest_pmtesttable","column_name":"incrementalfield"},{"name":"subflow.test.sys_id","label":"Input➛test➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_278660_pmtest_pmtesttable","column_name":"sys_id"},{"name":"485a440a-ce45-482c-8b10-4e352405f227.email","label":"1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"subflow.test","label":"Input➛test","reference":"x_278660_pmtest_pmtesttable","reference_display":"PMTESTTable","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>d0abe1c94fc66700ef3f38a18110c72c</latest_snapshot>
+        <master_snapshot>d8fa69894fc66700ef3f38a18110c7f2</master_snapshot>
+        <name>PMSubflow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-26 14:59:49</sys_created_on>
+        <sys_id>af3a61094fc66700ef3f38a18110c7d7</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>PMSubflow</sys_name>
+        <sys_package display_value="PMTEST" source="x_278660_pmtest">a020780d4f066700ef3f38a18110c732</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PMTEST">a020780d4f066700ef3f38a18110c732</sys_scope>
+        <sys_update_name>sys_hub_flow_af3a61094fc66700ef3f38a18110c7d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-26 15:05:53</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=af3a61094fc66700ef3f38a18110c7d7"/>
+    <sys_variable_value action="delete_multiple" query="document_key=af3a61094fc66700ef3f38a18110c7d7"/>
+</record_update>
